@@ -1,54 +1,106 @@
-{"pizzas":
-  [
-    { "id": 1,
+{
+  "pizzas": [
+    {
+      "id": 1,
       "topping": "Plain",
-      "size": "Small",
+      "size": "Medium",
       "vegetarian": true
     },
-    { "id": 2,
-      "topping": "Pepperoni",
-      "size": "Small",
-      "vegetarian": false
+    {
+      "id": 2,
+      "topping": "Pepperoni and Ham",
+      "size": "Medium",
+      "vegetarian": true
     },
-    { "id": 3,
+    {
+      "id": 3,
       "topping": "Mushroom",
       "size": "Small",
       "vegetarian": true
     },
-    { "id": 4,
+    {
+      "id": 4,
       "topping": "Sausage",
-      "size": "Small",
+      "size": "Large",
       "vegetarian": false
     },
-    { "id": 5,
+    {
+      "id": 5,
       "topping": "Bacon",
       "size": "Medium",
       "vegetarian": false
     },
-    { "id": 6,
+    {
+      "id": 6,
       "topping": "Spinach",
       "size": "Medium",
       "vegetarian": true
     },
-    { "id": 7,
+    {
+      "id": 7,
       "topping": "Black Olive",
       "size": "Medium",
       "vegetarian": true
     },
-    { "id": 8,
+    {
+      "id": 8,
       "topping": "Pineapple",
       "size": "Medium",
       "vegetarian": true
     },
-    { "id": 9,
+    {
+      "id": 9,
       "topping": "Salami",
-      "size": "Large",
+      "size": "Small",
       "vegetarian": false
     },
-    { "id": 10,
+    {
+      "id": 10,
       "topping": "Chicken",
       "size": "Large",
       "vegetarian": true
+    },
+    {
+      "topping": "Hawaiian",
+      "size": "Large",
+      "vegetarian": "",
+      "id": 11
+    },
+    {
+      "topping": "Meat Lovers",
+      "size": "Medium",
+      "vegetarian": "",
+      "id": 12
+    },
+    {
+      "topping": "meaty",
+      "size": "Medium",
+      "vegetarian": "Vegetarian",
+      "id": 13
+    },
+    {
+      "topping": "cheesy",
+      "size": "Small",
+      "vegetarian": "Vegetarian",
+      "id": 14
+    },
+    {
+      "topping": "extra mushrooms",
+      "size": "Small",
+      "vegetarian": true,
+      "id": 15
+    },
+    {
+      "topping": "",
+      "size": "size",
+      "vegetarian": true,
+      "id": 16
+    },
+    {
+      "topping": "new pizza",
+      "size": "Small",
+      "vegetarian": false,
+      "id": 17
     }
   ]
 }
